@@ -3,10 +3,10 @@
   <channel>
     <title>EvanZhou Blog</title>
     <description>关于前端学习</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Mar 2019 18:56:18 +0800</pubDate>
-    <lastBuildDate>Fri, 01 Mar 2019 18:56:18 +0800</lastBuildDate>
+    <link>http://localhost:4000//zy308718320.github.io/learn/</link>
+    <atom:link href="http://localhost:4000//zy308718320.github.io/learn/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 Mar 2019 21:26:00 +0800</pubDate>
+    <lastBuildDate>Sat, 02 Mar 2019 21:26:00 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/in-post/algorithm.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Mar 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/03/01/algorithm/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/03/01/algorithm/</guid>
+        <link>http://localhost:4000//zy308718320.github.io/learn/2019/03/01/algorithm/</link>
+        <guid isPermaLink="true">http://localhost:4000//zy308718320.github.io/learn/2019/03/01/algorithm/</guid>
         
         <category>algorithm</category>
         
