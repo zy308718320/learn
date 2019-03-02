@@ -14,4 +14,4 @@ tags:
 
 ---
 
-![img](/img/in-post/algorithm.png)
+![img](img/in-post/algorithm.png)
