@@ -6,7 +6,7 @@ email: zy308718320@qq.com
 description: "关于前端学习"
 keyword: "互联网, Web, JavaScript, 前端"
 url: "https://zy308718320.github.io/learn"              # your host, for absolute URL
-baseurl: "//zy308718320.github.io/learn"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/learn"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
