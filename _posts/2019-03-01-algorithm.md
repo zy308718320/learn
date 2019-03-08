@@ -335,6 +335,7 @@ function countingSort(arr, maxValue) {
 * 从不是空的桶里把排好序的数据拼接起来。 
 ##### 图片演示
 ![img](/learn/img/in-post/algorithm/11.png)
+##### 代码实现
 ```
 function bucketSort(arr, bucketSize) {
     if (arr.length === 0) {
